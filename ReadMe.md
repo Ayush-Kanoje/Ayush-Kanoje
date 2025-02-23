@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-kanoje&label=View%30count⚡&color=0e75b6&style=flat" alt="ayush-kanoje" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-kanoje&label=View%3count⚡&color=#BF007F&style=flat" alt="ayush-kanoje" /> </p>
 
 🧗🏻 I’m working on: optimizing My Communication Skills, Tech knowledge, and Mastering DSA problem-solving.<br><br>🧑🏻‍💻 I’m currently learning Firebase and DSA in C++.<br><br>👥 I’m looking to collaborate on Fullstack projects.<br><br>💬 Ask me about C/C++ and any general software development questions.<br><br> 🔗Let's Connect! Check out My BIO!<br><br>⚡ Fun fact Errors were never a problem for me......Just Kidding 😜.
 
