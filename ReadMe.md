@@ -5,7 +5,7 @@
 
 <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="GIF">
 
-🧗🏻 I’m working on: optimizing My Communication Skills, Tech knowledge, and Mastering DSA problem-solving.<br><br>🧑🏻‍💻 I’m currently learning Firebase and DSA in C++.<br><br>👥 I’m looking to collaborate on Fullstack projects.<br><br>💬 Ask me about C/C++ and any general software development questions.<br><br> 🔗Let's Connect! Check out My BIO!<br><br>⚡ Fun fact Errors were never a problem for me......Just Kidding 😜.
+🧗🏻 I’m working on: optimizing My Communication Skills, Tech knowledge, and Mastering DSA problem-solving.<br><br>🧑🏻‍💻 I’m currently learning Firebase and DSA in C++.<br><br>🔗Let's Connect! Check out My BIO!<br><br>⚡ Fun fact Errors were never a problem for me......Just Kidding 😜.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/unplayed_universe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayuxh.k11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushkanoje11/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushkanoje056@gmail.com) 
