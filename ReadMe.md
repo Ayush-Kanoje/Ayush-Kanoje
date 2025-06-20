@@ -65,13 +65,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Kanoje&theme=algolia&show_icons=true&hide_border=false&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayush-Kanoje&theme=algolia&hide_border=false" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Kanoje&theme=algolia&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=Ayush-Kanoje&theme=algolia&hide_border=false" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Kanoje&theme=algolia&hide_border=false&layout=compact&langs_count=6" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Kanoje&theme=algolia&hide_border=false&layout=compact&langs_count=6" alt="Top Languages" height="165" />
 </p>
+
 
 ---
 
