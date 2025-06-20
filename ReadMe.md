@@ -85,9 +85,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Ayush-Kanoje&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ayush-Kanoje&icon=8&color=4" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=ayush-kanoje&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
+
+
 
 <!-- Created using GPRM | https://gprm.itsvg.in -->
