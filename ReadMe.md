@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Ayush Kanoje</h1>
+<h1 align="center">Hi there, I'm Ayush Kanoje.</h1>
 <h3 align="center">A passionate Developer and Problem-solver in the field of Coder.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-kanoje&label=Viewers%20⚡&color=BF007F&style=Neumorphism" alt="ayush-kanoje" /> </p>
 
