@@ -1,30 +1,93 @@
-# 💫 About Me:
-<h1 align="center">Hi there, I'm Ayush Kanoje.</h1>
-<h3 align="center">A passionate Developer and Problem-solver in the field of Coder.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-kanoje&label=Viewers%20⚡&color=BF007F&style=Neumorphism" alt="ayush-kanoje" /> </p>
+<!-- Profile README for Ayush Kanoje -->
 
-<img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="GIF">
+<h1 align="center">Hey there 👋, I'm Ayush Kanoje</h1>
+<h3 align="center">💡 Developer | 💻 Engineer | 🚀 IoT & AI Explorer</h3>
 
-🧗🏻 I’m working on: optimizing My Communication Skills, Tech knowledge, and Mastering DSA problem-solving.<br><br>🧑🏻‍💻 I’m currently learning Firebase and DSA in C++.<br><br>🔗Let's Connect! Check out My BIO!<br><br>⚡ Fun fact Errors were never a problem for me......Just Kidding 😜.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ayush-Kanoje&label=Profile%20Views&color=6C63FF&style=flat-square" alt="profile views"/>
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/unplayed_universe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayuxh.k11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushkanoje11/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushkanoje056@gmail.com) 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="code gif" width="70%" />
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
+---
 
-![](https://github-readme-stats.vercel.app/api?username=Ayush-Kanoje&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Kanoje&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Kanoje&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🧠 About Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ayush-Kanoje&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+- 🎓 Engineering student in **Electronics & Telecommunication (ETC)**
+- 💡 Passionate about building **smart IoT solutions**, **web apps**, and solving **DSA problems**
+- 🧑‍💻 Currently learning **Firebase**, **C++ DSA**, and polishing my **communication & collaboration** skills
+- ⚡ Fun fact: I say *"errors are never a problem for me..."* — then debug for 3 hours 😅
 
-### 🔝 Top Contributed Repo
+---
+
+### 🌐 Connect with Me
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/unplayed_universe)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ayuxh.k11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushkanoje11/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayushkanoje056@gmail.com)
+
+---
+
+### 💻 Tech Stack
+
+#### 👨‍💻 Languages & Core
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
+#### 🌐 Web Dev
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=react-router&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+#### 🔗 Backend & Hosting
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+#### 🛠️ Tools & Design
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Kanoje&theme=algolia&show_icons=true&hide_border=false&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayush-Kanoje&theme=algolia&hide_border=false" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Kanoje&theme=algolia&hide_border=false&layout=compact&langs_count=6" height="165" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayush-Kanoje&theme=radical&no-bg=false&no-frame=false&margin-w=4" />
+</p>
+
+### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=Ayush-Kanoje&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ayush-Kanoje&icon=8&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Ayush-Kanoje&icon=8&color=4" alt="Visitor Count"/>
+</p>
+
+<!-- Created using GPRM | https://gprm.itsvg.in -->
