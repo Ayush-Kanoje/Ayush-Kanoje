@@ -12,7 +12,7 @@ If you love building cool stuff, learning out loud, or brainstorming wild ideas 
   <img src="https://komarev.com/ghpvc/?username=Ayush-Kanoje&label=Profile%20Views&color=6C63FF&style=flat-square" alt="profile views"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/username/repo/main/graph.svg" alt="Graph">
+
 
 ---
 
