@@ -7,8 +7,20 @@
   <img src="https://komarev.com/ghpvc/?username=Ayush-Kanoje&label=Profile%20Views&color=6C63FF&style=flat-square" alt="profile views"/>
 </p>
 
-
-
+📈 Daily Contributions
+<p align="center">
+<svg
+width="1200"
+height="350"
+viewBox="0 0 1200 350"
+fill="none"
+xmlns="http://www.w3.org/2000/svg">
+<rect xmlns="http://www.w3.org/2000/svg" data-testid="card_bg" id="cardBg"
+x="0" y="0" rx="0" height="100%" stroke="#E4E2E2" fill-opacity="1"
+width="100%" fill="#0d1117" stroke-opacity="1" style="stroke:#0000; stroke-width:1;"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Kanoje&theme=algolia&hide_border=false&layout=compact&langs_count=6" alt="Top Languages" height="165" />
+</p>
  
 
 ---
