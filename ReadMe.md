@@ -52,7 +52,7 @@ If you love building cool stuff, learning out loud, or brainstorming wild ideas 
 #### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-automation-%23FF6A00?style=flat&logo=n8n&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23FF6A00?style=flat&logo=n8n&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino_Uno-00979D?style=flat&logo=arduino&logoColor=white)
 
 #### 🛠️ Design
