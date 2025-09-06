@@ -49,14 +49,15 @@ If you love building cool stuff, learning out loud, or brainstorming wild ideas 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-#### 🛠️ Tools & Design
+#### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
+![N8N](https://img.shields.io/badge/N8N121011?style=flat&logo=N8N&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino_Uno-00979D?style=flat&logo=arduino&logoColor=white)
+
+#### 🛠️ Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino_Uno-00979D?style=flat&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
 
 ---
 
