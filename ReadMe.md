@@ -63,8 +63,6 @@ If you love building cool stuff, learning out loud, or brainstorming wild ideas 
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-Kanoje&theme=algolia&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" height="165" /> </p>
 
  <p align="center"> 
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=Ayush-Kanoje&theme=algolia&hide_border=false" alt="GitHub Streak" width="500" />
