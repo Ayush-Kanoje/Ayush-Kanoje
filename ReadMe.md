@@ -32,46 +32,89 @@ Now, I’m diving deep into the **cloud ecosystem**, focusing on **security, ide
 - 🎓 Pursuing **Electronics & Telecommunication Engineering (ETC)**
 - 🌩️ Transitioning into **Cloud & Cloud Security Engineering**
 - 💡 Passionate about creating **smart IoT systems**, **cloud-integrated apps**, and exploring **cyber defense principles**
-- 🧑‍💻 Currently learning **DSA**, and expanding into **AWS fundamentals + cloud automation**
+- 🧑‍💻 Currently learning **Python**, **Linux**, **Firebase**, and **C++ DSA**, expanding into **AWS fundamentals + cloud automation**
 - 🧱 Believer in *“Build → Break → Secure → Repeat”* — the best way to learn is through iteration
+- ⚡ Fun fact: I claim to “never fear errors,” yet sometimes end up debugging at 2 AM with coffee in hand ☕😅
 
 ---
 
+## ☁️ Cloud & Security Focus
+
+> My current professional goal: **become a proficient Cloud Security Engineer** capable of designing, securing, and automating resilient cloud systems.
+
+### Current Learning Focus
+- 🏗️ **Cloud Foundations:** IAM, Networking, Compute, and Storage fundamentals  
+- 🔐 **Cloud Security Essentials:** Identity Management, Zero Trust concepts, and Threat Modeling  
+- ⚙️ **Automation Mindset:** Using n8n, GitHub Actions, and scripts to build repeatable, secure workflows  
+- 🧩 **Architectural Thinking:** How distributed systems scale, communicate, and remain resilient  
+
+### Ongoing Learning Projects
+- 🌤️ Deploying small-scale **multi-cloud simulation labs** using Netlify, Vercel, and custom API endpoints  
+- 🔄 Implementing **GitOps-style workflows** for version-controlled deployment pipelines  
+- 🧠 Experimenting with **threat surface mapping** — analyzing misconfigurations in mock architectures  
+
+---
+
+## 📈 Learning Journey & Growth Metrics
+
+I believe in **visible, data-driven progress**.  
+To keep myself accountable, I track my evolution across four dimensions:
+
+| Metric | Description | Current Stage | Growth Target |
+|--------|--------------|----------------|----------------|
+| **Code Fluency Index (CFI)** | Ratio of problem-solving success rate to code review corrections | 0.68 | 0.85 |
+| **System Thinking Quotient (STQ)** | How well I can reason about architectures and dependencies | Intermediate | Advanced |
+| **Security Readiness Level (SRL)** | Depth of understanding in identity, access, and network controls | Beginner+ | Intermediate |
+| **Automation Maturity Level (AML)** | Use of automation for efficiency and reproducibility | Level 2 | Level 4 |
+
+> ⚙️ *These are my personal tracking metrics — recalculated monthly to quantify growth in both technical and architectural thinking.*
+
+---
+
+## 🧩 Advanced Concept: Adaptive Learning Feedback Loop (ALFL)
+
+This is my self-developed framework for **continuous technical evolution**.  
+It combines project retrospectives, architecture reviews, and security post-mortems into a structured feedback process.
+
+**ALFL Workflow:**
+Build → Break → Secure → Repeat
+
 
 Each iteration aims to reduce human friction in learning while improving:
-   - Code clarity and performance
-   - Architectural security hygiene
-   - Reusability of automation pipelines
+- Code clarity and performance
+- Architectural security hygiene
+- Reusability of automation pipelines
 
 > 🧠 *This loop mirrors how modern SecOps and DevSecOps teams evolve — it’s my personal discipline for engineering growth.*
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 #### 👨‍💻 Languages & Core
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![python](https://img.shields.io/badge/python-323330?style=flat&logo=python&logoColor=F7DF1E)
 
-#### 🌐 Web Dev
+#### 🌐 Web & Cloud
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-#### 🔗 Backend & Hosting
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-#### ⚙️ Tools
+#### 🖥️ Systems & Backend
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+#### ⚙️ Tools & Automation
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23FF6A00?style=flat&logo=n8n&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino_Uno-00979D?style=flat&logo=arduino&logoColor=white)
 
-#### 🛠️ Design
+#### 🛠️ Design & Visualization
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
