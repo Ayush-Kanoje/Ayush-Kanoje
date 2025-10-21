@@ -43,16 +43,11 @@ Now, I’m diving deep into the cloud ecosystem, focusing on security, identity,
 > My current professional goal: become a proficient Cloud Security Engineer capable of designing, securing, and automating resilient cloud systems.
 
 ### Current Learning Focus
-- 🏗️ Cloud Foundations: IAM, Networking, Compute, and Storage fundamentals  
+- 🏗️ Cloud Foundations: Linux-CMD, IAM, Networking, Compute, and Storage fundamentals
 - 🔐 Cloud Security Essentials: Identity Management, Zero Trust concepts, and Threat Modeling  
 - ⚙️ Automation Mindset: Using n8n, GitHub Actions, and scripts to build repeatable, secure workflows  
-- 🧩 Architectural Thinking: How distributed systems scale, communicate, and remain resilient  
-
-### Ongoing Learning Projects
-- 🌤️ Deploying small-scale multi-cloud simulation labs using Netlify, Vercel, and custom API endpoints  
-- 🔄 Implementing GitOps-style workflows for version-controlled deployment pipelines  
-- 🧠 Experimenting with threat surface mapping — analyzing misconfigurations in mock architectures  
-
+- 🧩 Architectural Thinking: How distributed systems scale, communicate, and remain resilient
+  
 ---
 
 ## 🧩 Advanced Concept: Adaptive Learning Feedback Loop (ALFL)
