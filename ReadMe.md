@@ -5,9 +5,9 @@
 <h3 align="center">💡 Developer | ☁️ Cloud Security Learner | 🚀 IoT & AI Explorer</h3>
 
 <h4 align="center">
-I’m an engineering student and emerging technologist, driven by curiosity and a passion for **building secure, scalable systems** in the cloud.  
-My journey blends hardware intuition with software logic — transforming from an IoT tinkerer into a **Cloud Security-focused engineer**.  
-I’m not just learning *tools*, I’m learning *thinking* — how systems connect, scale, and defend themselves.
+I’m an engineering student and emerging technologist, driven by curiosity and a passion for building secure, scalable systems in the cloud.  
+My journey blends hardware intuition with software logic — transforming from an IoT tinkerer into a Cloud Security-focused engineer.  
+I’m not just learning tools, I’m learning thinking — how systems connect, scale, and defend themselves.
 </h4>
 
 <p align="center">
@@ -18,74 +18,58 @@ I’m not just learning *tools*, I’m learning *thinking* — how systems conne
 
 ## 🌍 My Technical Journey
 
-Every project, repo, and late-night debug session is a record of my **evolution as an engineer**.  
-I started with the fundamentals — **electronics and C++** — and built my problem-solving foundation through **DSA and IoT**.  
-Gradually, I expanded into **web development and automation**, learning how to deploy and scale.  
-Now, I’m diving deep into the **cloud ecosystem**, focusing on **security, identity, and automation** — where reliability and protection meet design.
+Every project, repo, and late-night debug session is a record of my evolution as an engineer.  
+I started with the fundamentals — electronics and C++ — and built my problem-solving foundation through DSA and IoT.  
+Gradually, I expanded into web development and automation, learning how to deploy and scale.  
+Now, I’m diving deep into the cloud ecosystem, focusing on security, identity, and automation — where reliability and protection meet design.
 
-> My mission: to build systems that are not only functional, but **resilient, intelligent, and secure by default.**
+> My mission: to build systems that are not only functional, but resilient, intelligent, and secure by default.
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 Pursuing **Electronics & Telecommunication Engineering (ETC)**
-- 🌩️ Transitioning into **Cloud & Cloud Security Engineering**
-- 💡 Passionate about creating **smart IoT systems**, **cloud-integrated apps**, and exploring **cyber defense principles**
-- 🧑‍💻 Currently learning **Python**, **Linux**, **Firebase**, and **C++ DSA**, expanding into **AWS fundamentals + cloud automation**
-- 🧱 Believer in *“Build → Break → Secure → Repeat”* — the best way to learn is through iteration
+- 🎓 Pursuing Electronics & Telecommunication Engineering (ETC)
+- 🌩️ Transitioning into Cloud & Cloud Security Engineering
+- 💡 Passionate about creating smart IoT systems, cloud-integrated apps, and exploring cyber defense principles
+- 🧑‍💻 Currently learning Python, Linux, Firebase, and C++ DSA, expanding into AWS fundamentals + cloud automation
+- 🧱 Believer in “Build → Break → Secure → Repeat” — the best way to learn is through iteration
 - ⚡ Fun fact: I claim to “never fear errors,” yet sometimes end up debugging at 2 AM with coffee in hand ☕😅
 
 ---
 
 ## ☁️ Cloud & Security Focus
 
-> My current professional goal: **become a proficient Cloud Security Engineer** capable of designing, securing, and automating resilient cloud systems.
+> My current professional goal: become a proficient Cloud Security Engineer capable of designing, securing, and automating resilient cloud systems.
 
 ### Current Learning Focus
-- 🏗️ **Cloud Foundations:** IAM, Networking, Compute, and Storage fundamentals  
-- 🔐 **Cloud Security Essentials:** Identity Management, Zero Trust concepts, and Threat Modeling  
-- ⚙️ **Automation Mindset:** Using n8n, GitHub Actions, and scripts to build repeatable, secure workflows  
-- 🧩 **Architectural Thinking:** How distributed systems scale, communicate, and remain resilient  
+- 🏗️ Cloud Foundations: IAM, Networking, Compute, and Storage fundamentals  
+- 🔐 Cloud Security Essentials: Identity Management, Zero Trust concepts, and Threat Modeling  
+- ⚙️ Automation Mindset: Using n8n, GitHub Actions, and scripts to build repeatable, secure workflows  
+- 🧩 Architectural Thinking: How distributed systems scale, communicate, and remain resilient  
 
 ### Ongoing Learning Projects
-- 🌤️ Deploying small-scale **multi-cloud simulation labs** using Netlify, Vercel, and custom API endpoints  
-- 🔄 Implementing **GitOps-style workflows** for version-controlled deployment pipelines  
-- 🧠 Experimenting with **threat surface mapping** — analyzing misconfigurations in mock architectures  
-
----
-
-## 📈 Learning Journey & Growth Metrics
-
-I believe in **visible, data-driven progress**.  
-To keep myself accountable, I track my evolution across four dimensions:
-
-| Metric | Description | Current Stage | Growth Target |
-|--------|--------------|----------------|----------------|
-| **Code Fluency Index (CFI)** | Ratio of problem-solving success rate to code review corrections | 0.68 | 0.85 |
-| **System Thinking Quotient (STQ)** | How well I can reason about architectures and dependencies | Intermediate | Advanced |
-| **Security Readiness Level (SRL)** | Depth of understanding in identity, access, and network controls | Beginner+ | Intermediate |
-| **Automation Maturity Level (AML)** | Use of automation for efficiency and reproducibility | Level 2 | Level 4 |
-
-> ⚙️ *These are my personal tracking metrics — recalculated monthly to quantify growth in both technical and architectural thinking.*
+- 🌤️ Deploying small-scale multi-cloud simulation labs using Netlify, Vercel, and custom API endpoints  
+- 🔄 Implementing GitOps-style workflows for version-controlled deployment pipelines  
+- 🧠 Experimenting with threat surface mapping — analyzing misconfigurations in mock architectures  
 
 ---
 
 ## 🧩 Advanced Concept: Adaptive Learning Feedback Loop (ALFL)
 
-This is my self-developed framework for **continuous technical evolution**.  
+This is my self-developed framework for continuous technical evolution.  
 It combines project retrospectives, architecture reviews, and security post-mortems into a structured feedback process.
 
-**ALFL Workflow:**
+ALFL Workflow:
 Build → Break → Secure → Repeat
 
 
 Each iteration aims to reduce human friction in learning while improving:
-- Code clarity and performance
-- Architectural security hygiene
-- Reusability of automation pipelines
+ - Code clarity and performance
+ - Architectural security hygiene
+ - Reusability of automation pipelines
 
-> 🧠 *This loop mirrors how modern SecOps and DevSecOps teams evolve — it’s my personal discipline for engineering growth.*
+> 🧠 This loop mirrors how modern SecOps and DevSecOps teams evolve — it’s my personal discipline for engineering growth.
 
 ---
 
