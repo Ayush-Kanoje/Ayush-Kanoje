@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there 👋, I'm Ayush Kanoje</h1>
 <h3 align="center">Welcome to my Infinite Void 🌌</h3>
-<h3 align="center">💡 Developer | ☁️ Cloud Security Learner | 🚀 IoT & AI Explorer</h3>
+<h3 align="center">💡 Developer | ☁️ Cloud Security Learner</h3>
 
 <h4 align="center">
 I’m an engineering student and emerging technologist, driven by curiosity and a passion for building secure, scalable systems in the cloud.  
@@ -15,39 +15,14 @@ I’m not just learning tools, I’m learning thinking — how systems connect, 
 </p>
 
 ---
-
-## 🌍 My Technical Journey
-
-Every project, repo, and late-night debug session is a record of my evolution as an engineer.  
-I started with the fundamentals — electronics and C++ — and built my problem-solving foundation through DSA and IoT.  
-Gradually, I expanded into web development and automation, learning how to deploy and scale.  
-Now, I’m diving deep into the cloud ecosystem, focusing on security, identity, and automation — where reliability and protection meet design.
-
-> My mission: to build systems that are not only functional, but resilient, intelligent, and secure by default.
-
----
-
-### 🧠 About Me
-
-- 🎓 Pursuing Electronics & Telecommunication Engineering (ETC)
-- 🌩️ Transitioning into Cloud & Cloud Security Engineering
-- 💡 Passionate about creating smart IoT systems, cloud-integrated apps, and exploring cyber defense principles
-- 🧑‍💻 Currently learning Python, Linux, Firebase, and C++ DSA, expanding into AWS fundamentals + cloud automation
-- 🧱 Believer in “Build → Break → Secure → Repeat” — the best way to learn is through iteration
-- ⚡ Fun fact: I claim to “never fear errors,” yet sometimes end up debugging at 2 AM with coffee in hand ☕😅
-
----
-
 ## ☁️ Cloud & Security Focus
 
 > My current professional goal: become a proficient Cloud Security Engineer capable of designing, securing, and automating resilient cloud systems.
 
 ### Current Learning Focus
-- 🏗️ Cloud Foundations: Linux-CMD, IAM, Networking, Compute, and Storage fundamentals
-- 🔐 Cloud Security Essentials: Identity Management, Zero Trust concepts, and Threat Modeling  
-- ⚙️ Automation Mindset: Using n8n, GitHub Actions, and scripts to build repeatable, secure workflows  
+- 🏗️ Cloud Foundations: Linux-CMD, IAM, Networking, Compute, and Storage fundamentals 
+- ⚙️ Automation Mindset: Using n8n, GitHub Actions.
 - 🧩 Architectural Thinking: How distributed systems scale, communicate, and remain resilient
-  
 ---
 
 ## 🧩 Advanced Concept: Adaptive Learning Feedback Loop (ALFL)
@@ -120,7 +95,6 @@ Each iteration aims to reduce human friction in learning while improving:
 
 ## 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ayuxh.k11)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushkanoje11/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayushkanoje056@gmail.com)
 
