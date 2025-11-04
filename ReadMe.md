@@ -23,6 +23,7 @@ I’m not just learning tools, I’m learning thinking — how systems connect, 
 - 🏗️ Cloud Foundations: Linux-CMD, IAM, Networking, Compute, and Storage fundamentals 
 - ⚙️ Automation Mindset: Using n8n, GitHub Actions.
 - 🧩 Architectural Thinking: How distributed systems scale, communicate, and remain resilient
+- 
 ---
 
 ## 🧩 Advanced Concept: Adaptive Learning Feedback Loop (ALFL)
@@ -80,7 +81,6 @@ Each iteration aims to reduce human friction in learning while improving:
 <img src="https://github-readme-streak-stats-eight.vercel.app?user=Ayush-Kanoje&theme=algolia&hide_border=false" alt="GitHub Streak" width="500" />
 </p>
 
----
 
 ### 🏆 GitHub Achievements
 
@@ -88,17 +88,6 @@ Each iteration aims to reduce human friction in learning while improving:
   <img src="https://github-profile-trophy.vercel.app/?username=Ayush-Kanoje&theme=radical&no-bg=false&no-frame=false&margin-w=4" />
 </p>
 
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=Ayush-Kanoje&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushkanoje11/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayushkanoje056@gmail.com)
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayush-kanoje&label=Visitors&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
