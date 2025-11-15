@@ -23,7 +23,6 @@ I’m not just learning tools, I’m learning thinking — how systems connect, 
 - 🏗️ Cloud Foundations: Linux-CMD, IAM, Networking, Compute, and Storage fundamentals 
 - ⚙️ Automation Mindset: Using n8n, GitHub Actions.
 - 🧩 Architectural Thinking: How distributed systems scale, communicate, and remain resilient
-- 
 ---
 
 ## 🧩 Advanced Concept: Adaptive Learning Feedback Loop (ALFL)
