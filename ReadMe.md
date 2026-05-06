@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Ayush+Kanoje;Cloud+Security+Engineer+%7C+DevOps+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Ayush+Kanoje;Cloud+Security+Engineer+%7C+DevOps+Enthusiast" alt="Typing SVG" />
 
 <!-- Brief Tagline -->
 <h3>Building Secure, Scalable Cloud Infrastructure</h3>
