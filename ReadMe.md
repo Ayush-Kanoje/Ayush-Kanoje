@@ -210,16 +210,7 @@ IR sensor array-based robot with PID control for precise path tracking and obsta
 
 ---
 
-### 🐍 Contribution Snake
 
-<!-- GitHub Contribution Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayush-Kanoje/Ayush-Kanoje/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayush-Kanoje/Ayush-Kanoje/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ayush-Kanoje/Ayush-Kanoje/output/github-contribution-grid-snake.svg">
-</picture>
-
----
 
 <sub>🔨 Built with precision • 🚀 Deployed with confidence • 🔐 Secured by design</sub>
 
