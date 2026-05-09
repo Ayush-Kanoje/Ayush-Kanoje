@@ -122,11 +122,8 @@ My personal engineering discipline: Every project goes through *Build → Break 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayush-Kanoje&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=A277FF&text_color=FFFFFF" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Kanoje&theme=radical&hide_border=true&background=0D1117&stroke=A277FF&ring=A277FF&fire=FF6D00&currStreakLabel=A277FF" alt="GitHub Streak"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Kanoje&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A277FF&text_color=FFFFFF" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Kanoje&custom_title=Contribution%20Graph&bg_color=0D1117&color=A277FF&line=A277FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-Kanoje&theme=radical&bg_color=0D1117&color=A277FF&line=A277FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
@@ -214,16 +211,6 @@ IR sensor array-based robot with PID control for precise path tracking and obsta
 ### 💭 Developer Wisdom
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayush-Kanoje/Ayush-Kanoje/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayush-Kanoje/Ayush-Kanoje/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ayush-Kanoje/Ayush-Kanoje/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
