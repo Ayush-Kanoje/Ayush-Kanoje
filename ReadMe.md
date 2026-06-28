@@ -210,37 +210,9 @@ IR sensor array-based robot with PID control for precise path tracking and obsta
 
 ### Wisdom 💭
 
-export default function handler(req, res) {
-  const quotes = [
-    {
-      text: "Is that really…the limit to your power? Do you honestly think that you won't get any stronger for the rest of your life? Instead of sitting around frustrated, it's better to keep on moving forward.",
-      author: "Saitama"
-    },
-    {
-      text: "How do you know you could do it? I don't know, I just never thought I couldn't.",
-      author: "Unknown"
-    }
-  ];
-
-  const quote = quotes[Math.floor(Math.random() * quotes.length)];
-
-  res.setHeader("Content-Type", "image/svg+xml");
-
-  res.send(`
-  <svg xmlns="http://www.w3.org/2000/svg" width="900" height="180">
-    <rect width="100%" height="100%" fill="#0d1117"/>
-    <text x="50%" y="45%" fill="#58a6ff" font-size="22"
-      text-anchor="middle" font-family="Arial">
-      "${quote.text}"
-    </text>
-    <text x="50%" y="80%" fill="#8b949e" font-size="18"
-      text-anchor="middle" font-family="Arial">
-      — ${quote.author}
-    </text>
-  </svg>
-  `);
-}
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Keep+moving+forward.;Never+thought+I+couldn't.;Every+refresh%2C+a+new+message." />
+</p>
 ---
 
 <sub>🔨 Built with precision • 🚀 Deployed with confidence • 🔐 Secured by design</sub>
