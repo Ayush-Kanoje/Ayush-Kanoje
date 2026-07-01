@@ -210,7 +210,7 @@ IR sensor array-based robot with PID control for precise path tracking and obsta
 
 ### Wisdom 💭
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=1500&color=58A6FF&center=true&vCenter=true&width=1000&lines=How+do+you+know+you+could+do+it%3F;I+don't+know%2C+I+just+never+thought+I+couldn't." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=1500&color=58A6FF&center=true&vCenter=true&width=1000&lines=How+do+you+know+you+could+do+it%3F;I+just+never+thought+I+couldn't." alt="Typing SVG" />
 </p>
 ---
 
